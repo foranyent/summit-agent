@@ -1,0 +1,50 @@
+{
+  "policies": {
+    "returns": {
+      "window_days": 30,
+      "summary": "Summit Outfitters accepts returns within 30 days of delivery for items in original, unused condition with tags attached.",
+      "conditions": [
+        "Item must be unused and in original packaging",
+        "Tags must still be attached",
+        "Must be within 30 days of delivery date",
+        "Final sale items are not eligible for return",
+        "Worn or washed apparel cannot be returned unless defective"
+      ],
+      "process": "Initiate a return through your account portal or contact support. A prepaid return label will be emailed within 1 business day. Refunds are processed within 5-7 business days after we receive the item.",
+      "exceptions": ["Final sale items", "Customized or personalized gear", "Opened freeze-dried food products"]
+    },
+    "shipping": {
+      "standard": {
+        "cost": "Free on orders over $75, otherwise $8.99",
+        "estimated_days": "5-7 business days"
+      },
+      "expedited": {
+        "cost": "$18.99",
+        "estimated_days": "2-3 business days"
+      },
+      "overnight": {
+        "cost": "$34.99",
+        "estimated_days": "1 business day",
+        "cutoff": "Orders placed before 1pm MST"
+      },
+      "notes": "Orders placed Monday-Friday before 2pm MST typically ship same day. Weekend orders ship Monday."
+    },
+    "warranty": {
+      "summary": "All Summit Outfitters branded products carry a lifetime warranty against manufacturing defects.",
+      "covers": ["Seam failures", "Zipper defects", "Hardware failures", "Material delamination"],
+      "does_not_cover": ["Normal wear and tear", "Damage from misuse or accidents", "UV degradation", "Third-party brand products (subject to manufacturer warranty)"],
+      "process": "Contact support with your order number and photos of the defect. We'll review within 2 business days and arrange a repair, replacement, or store credit."
+    },
+    "price_match": {
+      "eligible": true,
+      "summary": "We'll match any competitor's current advertised price on identical in-stock items.",
+      "process": "Contact support with a link to the competitor's listing. Price match is applied as a refund if already purchased within 7 days."
+    },
+    "contact": {
+      "email": "support@summitoutfitters.com",
+      "phone": "1-800-555-0198",
+      "hours": "Monday-Friday, 8am-6pm MST",
+      "response_time": "Email responses within 1 business day"
+    }
+  }
+}

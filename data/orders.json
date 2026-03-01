@@ -1,0 +1,79 @@
+{
+  "orders": [
+    {
+      "order_id": "SO-1042",
+      "customer_name": "Marcus Webb",
+      "customer_email": "marcus.webb@email.com",
+      "status": "shipped",
+      "tracking_number": "1Z999AA10123456784",
+      "carrier": "UPS",
+      "order_date": "2025-02-20",
+      "estimated_delivery": "2025-03-04",
+      "items": [
+        {"product_id": "TN-204", "name": "Trailblazer Hiking Boots", "qty": 1, "price": 189.99},
+        {"product_id": "SK-089", "name": "Merino Wool Hiking Socks 3-Pack", "qty": 2, "price": 24.99}
+      ],
+      "total": 239.97
+    },
+    {
+      "order_id": "SO-1031",
+      "customer_name": "Dana Flores",
+      "customer_email": "dflores@email.com",
+      "status": "delivered",
+      "tracking_number": "1Z999AA10123456700",
+      "carrier": "UPS",
+      "order_date": "2025-02-08",
+      "estimated_delivery": "2025-02-14",
+      "delivery_date": "2025-02-13",
+      "items": [
+        {"product_id": "TP-301", "name": "Alpine 2-Person Tent", "qty": 1, "price": 349.99}
+      ],
+      "total": 349.99
+    },
+    {
+      "order_id": "SO-1055",
+      "customer_name": "Jordan Patel",
+      "customer_email": "jpatel@email.com",
+      "status": "processing",
+      "order_date": "2025-02-28",
+      "estimated_delivery": "2025-03-07",
+      "items": [
+        {"product_id": "JK-512", "name": "Summit Shell Rain Jacket", "qty": 1, "price": 274.99},
+        {"product_id": "BP-177", "name": "45L Expedition Backpack", "qty": 1, "price": 159.99}
+      ],
+      "total": 434.98
+    },
+    {
+      "order_id": "SO-1018",
+      "customer_name": "Riley Thompson",
+      "customer_email": "rthompson@email.com",
+      "status": "delivered",
+      "tracking_number": "1Z999AA10123456611",
+      "carrier": "UPS",
+      "order_date": "2025-01-15",
+      "estimated_delivery": "2025-01-22",
+      "delivery_date": "2025-01-21",
+      "items": [
+        {"product_id": "SL-099", "name": "Sleeping Bag 0°F Rated", "qty": 1, "price": 219.99},
+        {"product_id": "MP-044", "name": "Trekking Poles Set", "qty": 1, "price": 89.99}
+      ],
+      "total": 309.98
+    },
+    {
+      "order_id": "SO-1061",
+      "customer_name": "Sam Nguyen",
+      "customer_email": "snguyen@email.com",
+      "status": "delivered",
+      "tracking_number": "1Z999AA10123456999",
+      "carrier": "UPS",
+      "order_date": "2025-02-01",
+      "estimated_delivery": "2025-02-08",
+      "delivery_date": "2025-02-07",
+      "items": [
+        {"product_id": "HL-333", "name": "Rechargeable Headlamp 400lm", "qty": 2, "price": 49.99},
+        {"product_id": "WF-021", "name": "Ultralight Water Filter", "qty": 1, "price": 39.99}
+      ],
+      "total": 139.97
+    }
+  ]
+}

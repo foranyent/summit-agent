@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "product_id": "TN-204",
+      "name": "Trailblazer Hiking Boots",
+      "category": "Footwear",
+      "price": 189.99,
+      "in_stock": true,
+      "sizes_available": ["7", "8", "9", "10", "11", "12"],
+      "colors": ["Brown/Tan", "Black/Gray"],
+      "description": "Waterproof full-grain leather hiking boots with Vibram outsole. Ankle support, breathable lining, ideal for rugged terrain.",
+      "weight_oz": 32,
+      "rating": 4.7,
+      "review_count": 214
+    },
+    {
+      "product_id": "SK-089",
+      "name": "Merino Wool Hiking Socks 3-Pack",
+      "category": "Apparel",
+      "price": 24.99,
+      "in_stock": true,
+      "sizes_available": ["S", "M", "L", "XL"],
+      "colors": ["Gray/Green", "Black/Orange"],
+      "description": "Cushioned merino wool blend socks with arch support and moisture-wicking properties. Machine washable.",
+      "rating": 4.8,
+      "review_count": 389
+    },
+    {
+      "product_id": "TP-301",
+      "name": "Alpine 2-Person Tent",
+      "category": "Shelter",
+      "price": 349.99,
+      "in_stock": true,
+      "description": "3-season freestanding tent with dual vestibules, taped seams, and aluminum poles. Sets up in under 5 minutes.",
+      "weight_lbs": 4.2,
+      "packed_size_inches": "18x6",
+      "rating": 4.6,
+      "review_count": 157
+    },
+    {
+      "product_id": "JK-512",
+      "name": "Summit Shell Rain Jacket",
+      "category": "Apparel",
+      "price": 274.99,
+      "in_stock": true,
+      "sizes_available": ["XS", "S", "M", "L", "XL", "XXL"],
+      "colors": ["Slate Blue", "Forest Green", "Burnt Orange"],
+      "description": "3-layer Gore-Tex equivalent waterproof/breathable shell. Pit zips, helmet-compatible hood, packable into chest pocket.",
+      "weight_oz": 14,
+      "rating": 4.9,
+      "review_count": 98
+    },
+    {
+      "product_id": "BP-177",
+      "name": "45L Expedition Backpack",
+      "category": "Packs",
+      "price": 159.99,
+      "in_stock": false,
+      "description": "Adjustable torso-length pack with hip belt, integrated rain cover, hydration sleeve, and multiple organization pockets.",
+      "weight_lbs": 3.1,
+      "rating": 4.5,
+      "review_count": 203,
+      "restock_eta": "2025-03-15"
+    },
+    {
+      "product_id": "SL-099",
+      "name": "Sleeping Bag 0°F Rated",
+      "category": "Sleep",
+      "price": 219.99,
+      "in_stock": true,
+      "description": "800-fill down sleeping bag rated to 0°F. YKK zipper, draft collar, mummy cut, stuff sack included.",
+      "weight_lbs": 2.8,
+      "rating": 4.7,
+      "review_count": 176
+    },
+    {
+      "product_id": "MP-044",
+      "name": "Trekking Poles Set",
+      "category": "Accessories",
+      "price": 89.99,
+      "in_stock": true,
+      "description": "Collapsible aluminum trekking poles with cork grips, adjustable wrist straps, and interchangeable tips.",
+      "rating": 4.4,
+      "review_count": 312
+    },
+    {
+      "product_id": "HL-333",
+      "name": "Rechargeable Headlamp 400lm",
+      "category": "Lighting",
+      "price": 49.99,
+      "in_stock": true,
+      "description": "USB-C rechargeable headlamp with 400 lumen max output, red night vision mode, and IPX4 water resistance. 50hr battery life.",
+      "weight_oz": 3.1,
+      "rating": 4.6,
+      "review_count": 441
+    },
+    {
+      "product_id": "WF-021",
+      "name": "Ultralight Water Filter",
+      "category": "Hydration",
+      "price": 39.99,
+      "in_stock": true,
+      "description": "Hollow fiber inline water filter. Filters to 0.1 micron, no chemicals needed, filters up to 100,000 gallons.",
+      "weight_oz": 2.0,
+      "rating": 4.9,
+      "review_count": 528
+    }
+  ]
+}
